@@ -8,7 +8,7 @@
  
  ## João Neto
  
- > *Gym and coffee *
+ > *Gym and coffee*
 
  Matriculado no 2° ano do curso técnico integrado de Informática no IFRN - Campus Mossoró, com experiência em Desenvolvimento Python.<br> <br>Acredito que por meio da programação e seu desenvolvimento ao longo da história, podemos mudar o mundo para um lugar melhor. 
 <br>
@@ -21,5 +21,5 @@
   <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
 </div>
   
-##
+  ##
 <img align="center" alt="GIF" src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif"/>
