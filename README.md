@@ -10,7 +10,8 @@
  
  > *Gym and coffee*
 
-matriculado no curso de Ciencia da Computação - UFERSA Campus mossoró 
+matriculado no curso de Ciencia da Computação - UFERSA Campus mossoró <br> <br>Acredito que por meio da programação e seu desenvolvimento ao longo da história, podemos mudar o mundo para um lugar melhor. 
+<br>
 <br>
  
  ##
