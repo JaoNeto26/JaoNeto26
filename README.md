@@ -10,7 +10,7 @@
  
  > *Gym and coffee*
 
- Matriculado no 2° ano do curso técnico integrado de Informática no IFRN - Campus Mossoró, com experiência em Desenvolvimento Python.<br> <br>Acredito que por meio da programação e seu desenvolvimento ao longo da história, podemos mudar o mundo para um lugar melhor. 
+matriculado no curso de Ciencia da Computação - UFERSA Campus mossoró 
 <br>
  
  ##
