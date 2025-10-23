@@ -18,6 +18,7 @@ matriculado no curso de Ciencia da Computação - UFERSA Campus mossoró <br> <b
 
 ### Linguagens e tecnologias que venho utilizando em meus projetos e aprendendo:
 <div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png)">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
 </div>
